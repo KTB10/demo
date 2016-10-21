@@ -8,9 +8,6 @@ public class TwelveDays
    public static void main (String args[]) 
    {
       int choice;
-      String entry;
-      double total = 0;
-      double price;
 	  String suffix;
 	  String thing;
 	  
